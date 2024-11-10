@@ -1,2 +1,4 @@
-# Benef-cios-da-computa-o-em-nuvem
-Resumo lab dos benefícios da computação em nuvem - bootcamp DIO
+# Beneficios-da-computa-o-em-nuvem
+
+Nessa etapa vimos um pouco dos benefícios da computação em nuvem que pode nos auxiliar na escolha do tipo de nuvem a ser usada. 
+Começamos com a alta disponibilidade, que vemos com nosso SLA que já nós fornece uma previsão de inatividade e que quanto mais nove, menor será esse tempo de inatividade. Redução de custos, já que pagamos somente pelo que usamos. Escalabilidade que é a capacidade de ajustar recursos de acordo com a demanda. Elasticidade que permite que o recursos aumentem ou diminua de acordo com a quantidade de requisições que o nosso site vem recebendo. Segurança  que é possível prover com a navegação em nuvem, sendo parte aplicada pelo servidor e outra pelos clientes que estarão usando a nuvem. Também possui uma alta capacidade de governança, confiabilidade, previsibilidade.
